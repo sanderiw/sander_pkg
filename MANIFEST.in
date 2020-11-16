@@ -1,0 +1,3 @@
+graft sander_pkg
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  sander_pkg/jupy *
